@@ -17,7 +17,7 @@ title: Example Blues Band Page
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
  Beispiel Homepage mit Jekyll - Kostenlos gehostet auf Github !
-baseurl: "https://philippathome.github.io/jekylltest" # the subpath of your site, e.g. /blog
+baseurl: "/jekylltest" # the subpath of your site, e.g. /blog
 url: "https://philippathome.github.io/jekylltest" # the base hostname & protocol for your site
 twitter_username: theband
 github_username:  theband
